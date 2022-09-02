@@ -1,0 +1,8 @@
+<style>
+body {
+  background-image: url('https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,fit=crop/bahia9x9tf/heroImg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
